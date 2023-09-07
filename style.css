@@ -1,0 +1,29 @@
+.bg{
+  background-color: #004b87;
+  width: 1000px;
+  height: 500px;
+  display: flex;
+}
+.horizontal-yellow{
+  background-color: #ffcd00;
+  width: 1000px;
+  height: 100px;
+  position: absolute;
+  top: 200px;
+}
+.vertical-yellow{
+  background-color: #ffcd00;
+  width: 100px;
+  height: 500px;
+  position: absolute;
+  right: 800px;
+}
+/* 
+body{
+  background-color: #004b87;
+}
+.vertical-yellow{
+  background-color: #ffcd00;
+  width: 10%;
+  height: 100%;
+} */
