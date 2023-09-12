@@ -1,0 +1,23 @@
+img {
+  height: 200px;
+  margin: 0px 50px;
+}
+
+.row{
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  margin: 20px;
+}
+
+.bg1{
+  background-color: aqua;
+}
+
+.bg2{
+  background-color: pink;
+}
+
+.bg3{
+  background-color: wheat;
+}
